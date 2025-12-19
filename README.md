@@ -149,10 +149,10 @@ The dataset contains **hourly website performance data** with the following key 
 
 This project demonstrates:
 
-✔ End-to-end data cleaning & validation
-✔ Real-world website analytics use cases
-✔ Strong EDA & visualization skills
-✔ Business-focused interpretation of data
+- ✔ End-to-end data cleaning & validation
+- ✔ Real-world website analytics use cases
+- ✔ Strong EDA & visualization skills
+- ✔ Business-focused interpretation of data
 
 It closely mirrors how **data analysts analyze website performance data** in real industry settings.
 
@@ -172,13 +172,12 @@ It closely mirrors how **data analysts analyze website performance data** in rea
 
 ```bash
 pip install pandas numpy matplotlib seaborn
+jupyter notebook
 ```
 
-```python
-python website_analysis.py
-```
-
-Or run the notebook directly in **Jupyter Notebook / Jupyter Lab**.
+Then:
+- 1. Open Website Performance Analysis.ipynb
+- 2. Run cells from top to bottom
 
 ---
 
